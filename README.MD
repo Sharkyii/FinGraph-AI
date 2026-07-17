@@ -1,4 +1,4 @@
-# AlphaGraph: Agentic Financial Intelligence Platform
+# FinGraph: Agentic Financial Intelligence Platform
 
 Production-grade AI financial analyst that answers company questions by retrieving, comparing, reasoning, and synthesizing information from financial reports, earnings transcripts, news, and structured financial data.
 
